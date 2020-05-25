@@ -1,2 +1,0 @@
-# kanbanBoard
-Created with CodeSandbox
